@@ -1,4 +1,5 @@
 # waste-collection-calendar
+![Image](https://github.com/zangaby/waste-collection-calendar/blob/main/waste-collection-calendar.png?raw=true)
 
 Parts needed:
 
